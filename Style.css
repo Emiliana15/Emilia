@@ -1,0 +1,79 @@
+
+body {                          
+    background : #884A39;
+    font-family: 'Lucida Sans' ;
+    color: #F9E0BB;
+    text-align: justify;
+}
+
+.genap {
+    text-align: center;
+    color:#F9E0BB ;
+    background-color:#FFC26F ;
+}
+.ganjil {
+    text-align: center;
+    color: #F9E0BB;
+    background-color:#C38154 ;
+}
+
+#borderTitik {
+    border: 5px;
+    border-color: #F9E0BB;
+    border-style: dotted;
+}
+
+#borderDua {
+    border: 7px;
+    border-color: #F9E0BB;
+    border-style: double;
+}
+
+#border {
+    border: 5px;
+    border-color: #F9E0BB;
+    border-style: dashed;
+}
+
+div {
+    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.gambarKecil {
+    max-height: 200px;
+    margin: 20px;
+    border: 2px;
+    border-color: #FFC26F;
+    border-style: solid;
+}
+
+.gambarTengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.profile {
+    float: left;
+}
+
+nav {
+    text-align: center;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: #F9E0BB;
+}
+
+a:hover {
+    color: white;
+}
